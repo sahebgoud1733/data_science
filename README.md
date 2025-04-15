@@ -29,13 +29,13 @@ Bar plots were used to show how average stress levels change across different sl
 ## ▶️ How to Run
 
 1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/project.git
+   ```CMD
+   git clone https:/sahebgoud1733/github.com//project.git
    cd project
    ```
 
 2. Open the notebook:
-   ```bash
+   ```CMD
    jupyter notebook health_care_data_analysis.ipynb
    ```
 
@@ -43,4 +43,4 @@ Bar plots were used to show how average stress levels change across different sl
 
 ## 🙌 Acknowledgments
 
-Inspired by personal interest in health data. Dataset source: [Add your dataset source or mention if it's self-collected].
+Inspired by personal interest in health data. Dataset source:KAGGLE
